@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
+}
+
+.col-md-6{
+    border: 5px solid black;
+    margin-top: 150px !important;
+    padding: 20px
+}
+
+button{
+    margin: 10px !important;
+   
+}
