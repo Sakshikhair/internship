@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(to right, #74ebd5 0%, #9face6 100%);
+}
+
+h1{
+    margin: 40px !important;
+    background-color: #8090d7;
+    border-radius: 5px;
+}
+.table{
+    border: 2px solid black;
+    
+}
