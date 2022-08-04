@@ -14,12 +14,11 @@ Here are some projects that I have made during the entire internship period.
 
 5. Quiz
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/98726764/181033364-8aba0a3e-3d60-472a-bc7e-3619fd1c4653.png">
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/98726764/181033605-323417fb-838d-47f1-a515-c243e275587f.png">
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/98726764/181033765-22c48fb2-b3ab-4ff6-9280-0b42240daf71.png">
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/98726764/181033952-5dd86029-4ef9-4031-bd45-6d3e95f557e4.png">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/98726764/181034110-ea7db1b3-eee0-42c2-8983-551b077ebd61.png">
 
 6. Covid Stats
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/98726764/181790484-2300f0aa-4618-4d99-bafa-09813affd079.png">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/98726764/181790578-e903c21c-6dde-44c9-9dd1-2f4c9fc0ccb3.png">
 
+7. JS meals
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/98726764/182869317-73caadb5-18cb-49fd-a926-349581be2d82.png">
