@@ -22,3 +22,6 @@ Here are some projects that I have made during the entire internship period.
 
 7. JS meals
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/98726764/182869317-73caadb5-18cb-49fd-a926-349581be2d82.png">
+
+8. TODO List
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/98726764/183252657-1ca1e023-6f70-4993-8742-0b4590c67366.png">
