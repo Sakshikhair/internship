@@ -25,3 +25,6 @@ Here are some projects that I have made during the entire internship period.
 
 8. TODO List
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/98726764/183252657-1ca1e023-6f70-4993-8742-0b4590c67366.png">
+
+9. Javascript Animations
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/98726764/184076688-d4e0921d-301f-4c80-8010-cb6c56b9916b.png">
